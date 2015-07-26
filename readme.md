@@ -1,5 +1,12 @@
 # 2FA CLI
 
+To install, run
+
+```
+go get github.com/gouthamve/2fauth
+```
+
+```
 Usage:
   2fauth [command]
 
@@ -15,3 +22,4 @@ Flags:
 
 
 Use "2fauth [command] --help" for more information about a command.
+```
