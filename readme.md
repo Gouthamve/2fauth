@@ -1,5 +1,7 @@
 # 2FA CLI
 
+A wrapper around @robbiev's two-factor-auth implementation: https://github.com/robbiev/two-factor-auth
+
 Usage:
   2fauth [command]
 
